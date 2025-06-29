@@ -20,7 +20,6 @@ while True:
             x, y, w, h = bbox['bbox']
             center = bbox['center']
             score = bbox['score'][0]
-            # You can print or use these values as needed
             print(f"Center: {center}, Score: {score:.2f}")
 
     # Show the image
