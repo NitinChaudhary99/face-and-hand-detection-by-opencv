@@ -20,4 +20,7 @@ Designed for both learning and integration into larger computer vision projects.
 - Left/right hand identification
 - Simple and modular codebase
 
+![{F8022F94-5AF6-4650-802F-53A787ECE87C}](https://github.com/user-attachments/assets/7094a06b-4abc-4bf1-b222-a3ca3c7c0af7)
+![{8CAA88D1-E61D-4E1B-9EE0-06C838E8AE91}](https://github.com/user-attachments/assets/2c863210-ae32-4126-9343-0abaee19799b)
+
 
